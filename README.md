@@ -5,6 +5,10 @@ Automated digital storefront bot for Telegram with product management, customer 
 [![Latest Release](https://img.shields.io/badge/Version-2.0.0-blue)](https://github.com/anoop14613742/universal-shop-bot-pro/releases)
 [![License](https://img.shields.io/badge/License-Commercial-red)](./LICENSE)
 
+## Preview
+
+![Universal Shop Bot PRO storefront preview](./assets/preview.svg)
+
 ## Features
 
 - Digital product catalog and inventory management
