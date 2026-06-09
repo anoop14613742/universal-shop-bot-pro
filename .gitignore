@@ -1,0 +1,30 @@
+# Binaries are uploaded to GitHub Releases, not committed to Git.
+*.exe
+*.msi
+*.zip
+*.7z
+*.rar
+releases/*
+!releases/.gitkeep
+
+# Local runtime and secret files
+.env
+.env.*
+!.env.example
+*.log
+logs/
+data/
+tmp/
+temp/
+
+# Python/cache/build leftovers
+__pycache__/
+*.py[cod]
+build/
+dist/
+
+# OS and editor files
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
