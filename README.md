@@ -7,7 +7,7 @@ Automated digital storefront bot for Telegram with product management, customer 
 
 ## Preview
 
-![Universal Shop Bot PRO storefront preview](./assets/preview.svg)
+![Universal Shop Bot PRO software screenshot](./assets/shop-bot-pro.png)
 
 ## Features
 
